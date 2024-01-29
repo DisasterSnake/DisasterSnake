@@ -1,22 +1,16 @@
-<h2>Bonjour , Nice to see you<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<h2>Greetings, Earthling!!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 <br>
-<h3>Welcome to my page<br>My name is Reehan, currently living in India</h3>
+<h3>Welcome to my page<br>I'm Saket, nice to meet ya!</h3>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVwZWNiY2Rxb3J4NnJwdXRlcWY4am90a2ZyMzN0NXMxNjdtZjU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="700"/> 
 </div>
   <br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/syed-reehan-siddiq-06591920a">
+  <a href="https://www.linkedin.com/in/saketshinoj/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://instagram.com/_reehansyed?utm_source=qr">
+  <a href="https://www.instagram.com/disasterfaced/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://leetcode.com/Reehan9/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
-  </a>
-    <a href="https://twitter.com/__reehan?s=21&t=5Hup5V6YRSVo4xj6jUIIvQ">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=#d16c06" alt="twitter Badge"/>
   </a>
 </div>
 <div>
