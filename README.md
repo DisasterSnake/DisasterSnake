@@ -1,6 +1,6 @@
 <h2>GREETINGS, EARTHLING!!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 <br>
-<h3>Welcome to my page!!!<br>I'm Saket, nice to meet ya!!!<img src="https://giphy.com/clips/lsd-tie-dye-rainbow-love-fH2AYFR2jnvp40F5uj" width="30px"/></h3>
+<h3>Welcome to my page!!!<br>I'm Saket, nice to meet ya!!!<img src="https://static.wikia.nocookie.net/b89fbc5d-a76a-4fa3-9446-4bbdaeec1370/scale-to-width/755" width="30px"/></h3>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVwZWNiY2Rxb3J4NnJwdXRlcWY4am90a2ZyMzN0NXMxNjdtZjU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="700"/> 
 </div>
