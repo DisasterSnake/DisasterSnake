@@ -2,7 +2,7 @@
 
 <h3>Welcome to my page!!! <img src="https://i.pinimg.com/originals/1e/6f/9a/1e6f9a059fdba45eeee1f41c36859986.png" width="30px"/><br>I'm Saket, nice to meet ya!!! <img src="https://static.wikia.nocookie.net/cf1f2e4f-0f8f-4683-989c-f3d7fa29a26d/scale-to-width/755" width="30px"/></h3>
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVwZWNiY2Rxb3J4NnJwdXRlcWY4am90a2ZyMzN0NXMxNjdtZjU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="700"/> 
+  <img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium"/> 
 </div>
   <br>
 <div id="badges">
