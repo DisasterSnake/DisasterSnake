@@ -2,7 +2,7 @@
 <br>
 <h3>Welcome to my page<br>My name is Reehan, currently living in India</h3>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240885342-127d79d7-e59d-4aa8-bd18-63b89c666d95.gif" width="700"/> 
+  <img src="[https://user-images.githubusercontent.com/74038190/240885342-127d79d7-e59d-4aa8-bd18-63b89c666d95.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVwZWNiY2Rxb3J4NnJwdXRlcWY4am90a2ZyMzN0NXMxNjdtZjU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif)" width="700"/> 
 </div>
   <br>
 <div id="badges">
